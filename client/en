@@ -1,0 +1,46 @@
+Please select one option:
+Login
+Register
+Username
+Password
+The Login was succesfull.
+The username and/or the password are wrong.
+The username is already taken.
+The connection was closed because an error has occurred.
+The Registration was succesfull.
+You have an infinite amount of water, fire, earth and air. In order to react, simply enter two numbers. Give 'h' in order to view this help, or 'l' to to logout. In order to exit the game use 'e'.
+infinite
+y
+n
+Do you want to exit the game?
+This is not a valid material.
+You do not have enought of this material.
+You can not mix these materials.
+Main menu
+Mixing
+Settings
+Help
+Logout
+Exit Game
+Mix
+Change Language
+Back
+Do you want to log out?
+Select the first element
+Select the second element
+Abort
+Shutdown server
+Do you really want to shutdown the server?
+Unknown: Please update your language file.
+Please select a language.
+Water
+Fire
+Earth
+Air
+Wind
+Mud
+Steam
+Cloud
+Storm
+Rain
+Stone

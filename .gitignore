@@ -1,0 +1,15 @@
+#pycharm
+*.iml
+.idea/
+*.ipr
+*.iws
+.idea_modules/
+atlassian-ide-plugin.xml
+
+#python
+/dist/
+/*.egg-info
+*.pyc
+
+#mac
+.DS_Store
